@@ -34,7 +34,7 @@ This project analyzes Netflix viewing and review data to uncover **content trend
 
 ## 🛠️ Tech Stack  
 
-- **Python:** Pandas, NumPy, NLTK / SpaCy (for NLP)  
+- **Python:** Pandas, NumPy, NLTK (for NLP)  
 - **Database:** MS SQL Server  
 - **Data Analysis & Visualization:** Matplotlib, Seaborn
 
