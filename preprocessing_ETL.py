@@ -31,7 +31,7 @@ df["review_cleaned"] = df["review_cleaned"].str.replace(r"[^a-zA-Z0-9\s]", "", r
 
 # Step 3: Connect to SQL Server
 CONN_STR = (
-    "DRIVER={...};"
+    "DRIVER={SQL SERVER};"
     "SERVER=...;"
     "DATABASE=...;"
     "UID=...;"
